@@ -50,8 +50,9 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
-    "prop-types": "^15.7.2",
-    "@react-native-community/art": "^1.1.2"
+    "@babel/runtime": "^7.10.0",
+    "@react-native-community/art": "https://github.com/Brewskey/art",
+    "prop-types": "^15.7.2"
   },
   "typings": "index.d.ts"
 }
