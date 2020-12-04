@@ -97,18 +97,9 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@react-native-community/art@^1.1.2":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@react-native-community/art/-/art-1.2.0.tgz#386d95393f6042d9006f9d4bc6063fb898794460"
-  integrity sha512-a+ZcRGl/BzLa89yi33Mbn5SHavsEXqKUMdbfLf3U8MDLElndPqUetoJyGkv63+BcPO49UMWiQRP1YUz6/zfJ+A==
-  dependencies:
-    art "^0.10.3"
-    invariant "^2.2.4"
-    prop-types "^15.7.2"
-
 "@react-native-community/art@https://github.com/Brewskey/art":
   version "1.2.0"
-  resolved "https://github.com/Brewskey/art#8ce7ec5812c8b5231700a6a3449d6fd9c003d9dd"
+  resolved "https://github.com/Brewskey/art#140789943282862ea73db7f1eea0d5a2ab9409e7"
   dependencies:
     art "^0.10.3"
     invariant "^2.2.4"
