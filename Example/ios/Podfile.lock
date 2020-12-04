@@ -293,7 +293,7 @@ PODS:
     - React-jsi (= 0.62.0)
     - ReactCommon/callinvoker (= 0.62.0)
   - ReactNativeART (1.2.0):
-    - React
+    - React-Core
   - Yoga (1.14.0)
   - YogaKit (1.18.1):
     - Yoga (~> 1.14)
@@ -439,10 +439,10 @@ SPEC CHECKSUMS:
   React-RCTText: 91a0d0ae5434aa28fe0c89c03eb9d660ff53bd9b
   React-RCTVibration: 0630aeb11e22f87c180ca9c0c3a0a0aba780cc62
   ReactCommon: d22162ab8f1358c53dfcd0f9c4d82d38facdbc48
-  ReactNativeART: 78edc68dd4a1e675338cd0cd113319cf3a65f2ab
+  ReactNativeART: b8678eb7180c5fabf24977bdfb77d3fab45e6214
   Yoga: 9db9ff2025ad21d1ac0a8b3c85d5ac4e7c29d525
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
-PODFILE CHECKSUM: 08584089fa8dca39531d18c61b78f160733a0e1f
+PODFILE CHECKSUM: d71ab56e1522caf313f7756fe0a8b353b4968add
 
 COCOAPODS: 1.8.4
